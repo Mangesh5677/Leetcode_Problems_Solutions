@@ -15,6 +15,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -42,6 +43,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting

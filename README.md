@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
@@ -44,6 +45,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

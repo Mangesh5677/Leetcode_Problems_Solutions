@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
@@ -58,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

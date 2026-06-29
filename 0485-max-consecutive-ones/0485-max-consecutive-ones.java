@@ -8,8 +8,10 @@ class Solution {
             if(count>maxcount){
                 maxcount=count;
             }
-            }else
+            }
+            else{
             count=0;
+            }
             }   
         return maxcount;
     }

@@ -37,6 +37,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -108,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

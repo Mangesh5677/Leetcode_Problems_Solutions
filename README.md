@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Array
 | Problem Name | Difficulty |

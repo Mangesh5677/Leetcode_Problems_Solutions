@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
@@ -54,6 +55,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |

@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -87,6 +88,7 @@
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |

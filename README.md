@@ -48,6 +48,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -122,6 +123,7 @@
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |

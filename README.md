@@ -87,6 +87,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -172,6 +175,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -182,4 +186,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0155-min-stack/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->

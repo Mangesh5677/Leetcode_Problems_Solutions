@@ -77,6 +77,7 @@
 | [0001-two-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -152,6 +153,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0046-permutations/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |

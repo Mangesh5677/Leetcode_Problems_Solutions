@@ -107,6 +107,7 @@
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
@@ -154,6 +155,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
@@ -87,6 +88,7 @@
 | [0039-combination-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -196,6 +198,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |

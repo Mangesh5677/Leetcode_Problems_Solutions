@@ -99,6 +99,7 @@
 | [0054-spiral-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -168,6 +169,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -215,6 +217,7 @@
 | [0054-spiral-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |

@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
@@ -68,6 +69,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

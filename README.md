@@ -14,6 +14,7 @@
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -91,6 +91,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Recursion
@@ -270,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,4 +308,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->

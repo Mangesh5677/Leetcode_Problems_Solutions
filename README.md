@@ -46,6 +46,7 @@
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,4 +321,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->

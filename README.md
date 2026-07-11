@@ -148,6 +148,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -186,6 +187,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

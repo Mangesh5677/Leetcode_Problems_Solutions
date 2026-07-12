@@ -24,6 +24,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
@@ -104,6 +105,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0867-transpose-matrix/) | Easy |

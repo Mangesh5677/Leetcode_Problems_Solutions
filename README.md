@@ -163,6 +163,7 @@
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |

@@ -354,4 +354,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->

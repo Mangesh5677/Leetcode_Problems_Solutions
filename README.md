@@ -105,6 +105,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -305,6 +307,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

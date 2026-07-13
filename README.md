@@ -155,6 +155,7 @@
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -234,6 +235,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |

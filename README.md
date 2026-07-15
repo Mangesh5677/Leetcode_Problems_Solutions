@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -154,6 +155,7 @@
 | [0283-move-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
@@ -205,6 +207,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |

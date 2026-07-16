@@ -59,6 +59,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -247,6 +248,7 @@
 | [0002-add-two-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search

@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0371-sum-of-two-integers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
@@ -301,6 +302,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |

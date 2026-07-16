@@ -93,6 +93,7 @@
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0796-rotate-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -388,4 +389,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

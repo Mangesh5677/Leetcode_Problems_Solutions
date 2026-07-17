@@ -197,6 +197,7 @@
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -343,6 +344,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

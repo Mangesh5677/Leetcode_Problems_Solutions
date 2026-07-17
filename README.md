@@ -167,6 +167,7 @@
 | [0283-move-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -220,6 +221,7 @@
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
@@ -270,6 +272,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -327,6 +330,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -363,6 +367,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |

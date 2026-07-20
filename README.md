@@ -19,6 +19,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -199,6 +200,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |

@@ -19,6 +19,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -202,6 +203,7 @@
 | [0905-sort-array-by-parity](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -253,6 +255,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -316,6 +319,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

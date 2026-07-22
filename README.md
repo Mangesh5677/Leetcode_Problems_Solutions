@@ -17,6 +17,7 @@
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -196,6 +197,7 @@
 | [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -468,4 +470,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->

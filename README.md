@@ -83,6 +83,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -184,6 +185,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0456-132-pattern](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -253,6 +255,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -320,6 +323,7 @@
 | [0055-jump-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Trie

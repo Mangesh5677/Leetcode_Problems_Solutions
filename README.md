@@ -68,6 +68,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -115,6 +116,7 @@
 | [0709-to-lower-case](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -225,6 +227,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |

@@ -209,6 +209,7 @@
 | [0705-design-hashset](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -331,6 +332,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |

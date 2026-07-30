@@ -254,6 +254,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +360,7 @@
 | [0605-can-place-flowers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +455,7 @@
 | [0506-relative-ranks](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -249,6 +249,7 @@
 | [1672-richest-customer-wealth](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -294,6 +295,7 @@
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Divide and Conquer

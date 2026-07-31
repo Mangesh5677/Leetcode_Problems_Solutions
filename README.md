@@ -252,6 +252,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -296,6 +297,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Divide and Conquer
@@ -356,6 +358,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

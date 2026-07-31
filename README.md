@@ -42,6 +42,7 @@
 | [1260-shift-2d-grid](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -246,6 +247,7 @@
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |

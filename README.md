@@ -144,6 +144,7 @@
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@
 | [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -438,6 +440,7 @@
 | [0456-132-pattern](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

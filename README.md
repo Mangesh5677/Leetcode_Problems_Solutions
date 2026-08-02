@@ -107,6 +107,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |

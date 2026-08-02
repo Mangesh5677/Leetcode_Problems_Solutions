@@ -16,6 +16,7 @@
 | [0367-valid-perfect-square](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
+| [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
@@ -159,6 +160,7 @@
 | [0206-reverse-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@
 | [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0456-132-pattern](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -329,6 +332,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
 ## Prefix Sum
@@ -512,6 +516,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |

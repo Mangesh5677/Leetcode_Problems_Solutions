@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
@@ -111,6 +112,7 @@
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0344-reverse-string/) | Easy |

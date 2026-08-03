@@ -24,6 +24,7 @@
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -247,6 +248,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -335,6 +337,7 @@
 | [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +521,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,4 +551,12 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->

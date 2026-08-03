@@ -97,6 +97,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -122,6 +123,7 @@
 | [0344-reverse-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0500-keyboard-row](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -336,6 +338,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0877-stone-game/) | Medium |

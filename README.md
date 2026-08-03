@@ -56,6 +56,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -115,6 +116,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0344-reverse-string/) | Easy |

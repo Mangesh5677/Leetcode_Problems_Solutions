@@ -92,6 +92,7 @@
 | [0075-sort-colors](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
@@ -115,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |

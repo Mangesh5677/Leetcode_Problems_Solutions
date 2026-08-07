@@ -24,6 +24,7 @@
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -259,6 +260,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |

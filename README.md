@@ -441,6 +441,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -488,6 +489,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,12 +525,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -24,6 +24,7 @@
 | [0908-smallest-range-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1518-water-bottles](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1518-water-bottles/) | Easy |
@@ -260,6 +261,7 @@
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -409,6 +411,7 @@
 | [0455-assign-cookies](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Trie

@@ -84,6 +84,7 @@
 | [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -148,6 +149,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -504,6 +506,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

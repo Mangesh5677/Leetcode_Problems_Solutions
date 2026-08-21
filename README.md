@@ -155,6 +155,7 @@
 | [3019-number-of-changing-keys](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3798-largest-even-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

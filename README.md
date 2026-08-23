@@ -613,4 +613,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1795-rearrange-products-table](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1795-rearrange-products-table/) | Easy |
 <!---LeetCode Topics End-->

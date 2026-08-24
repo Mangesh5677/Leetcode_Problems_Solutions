@@ -152,6 +152,7 @@
 | [1436-destination-city](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |

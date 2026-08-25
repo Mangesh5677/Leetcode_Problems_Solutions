@@ -91,6 +91,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -304,6 +305,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Counting

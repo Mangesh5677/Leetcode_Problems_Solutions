@@ -118,6 +118,7 @@
 | [0905-sort-array-by-parity](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -277,6 +278,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -346,6 +348,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -416,6 +419,7 @@
 | [0875-koko-eating-bananas](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Greedy

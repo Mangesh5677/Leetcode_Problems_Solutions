@@ -36,6 +36,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +311,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

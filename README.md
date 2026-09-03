@@ -416,6 +416,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0704-binary-search/) | Easy |
@@ -523,6 +524,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

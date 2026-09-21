@@ -304,6 +304,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -437,6 +438,7 @@
 | [0605-can-place-flowers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3780-maximum-sum-of-three-numbers-divisible-by-three/) | Medium |
 ## Trie

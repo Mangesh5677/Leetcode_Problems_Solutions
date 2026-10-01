@@ -634,4 +634,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1795-rearrange-products-table](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1795-rearrange-products-table/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

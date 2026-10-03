@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0326-power-of-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -189,6 +190,7 @@
 | [0206-reverse-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Array

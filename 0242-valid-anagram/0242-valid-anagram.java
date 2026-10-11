@@ -4,18 +4,16 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-
-        int[] count = new int[26];
-
+        int sf[] = new int[26];
+        int tf[] = new int[26];
+        
         for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+            sf[s.charAt(i) - 'a']++;
+            tf[t.charAt(i) - 'a']++;
         }
 
-        for (int num : count) {
-            if (num != 0) {
-                return false;
-            }
+        for(int i=0;i<26;i++){
+            if(sf[i]!=tf[i]) return false;
         }
 
         return true;

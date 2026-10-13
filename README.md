@@ -182,6 +182,7 @@
 | [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -516,6 +517,7 @@
 | [0496-next-greater-element-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -524,6 +526,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0705-design-hashset](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0901-online-stock-span](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -650,4 +653,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->

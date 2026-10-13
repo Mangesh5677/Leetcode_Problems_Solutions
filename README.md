@@ -476,6 +476,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -530,6 +531,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -568,6 +570,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -576,6 +579,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |

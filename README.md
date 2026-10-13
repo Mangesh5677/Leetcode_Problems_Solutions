@@ -482,6 +482,7 @@
 | [0200-number-of-islands](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -574,6 +575,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -583,6 +585,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -661,4 +664,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0901-online-stock-span/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

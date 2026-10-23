@@ -318,6 +318,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -497,6 +498,7 @@
 | [0389-find-the-difference](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mangesh5677/Leetcode_Problems_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
